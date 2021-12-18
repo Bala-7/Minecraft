@@ -1,0 +1,7056 @@
+fileFormatVersion: 2
+guid: 1d498fd7984b92c459104795c6c21dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5679390536090785944
+    second: BlockIcons_0
+  - first:
+      213: 5392753449730437660
+    second: BlockIcons_1
+  - first:
+      213: -6943373833598557
+    second: BlockIcons_2
+  - first:
+      213: -7538633921802359561
+    second: BlockIcons_3
+  - first:
+      213: 448961105294916356
+    second: BlockIcons_4
+  - first:
+      213: -4219558403781695398
+    second: BlockIcons_5
+  - first:
+      213: 6181873364862223445
+    second: BlockIcons_6
+  - first:
+      213: -9138616440249935319
+    second: BlockIcons_7
+  - first:
+      213: -1501523072523359806
+    second: BlockIcons_8
+  - first:
+      213: 1159639000735656762
+    second: BlockIcons_9
+  - first:
+      213: 4789437984422588439
+    second: BlockIcons_10
+  - first:
+      213: 4271331837703844512
+    second: BlockIcons_11
+  - first:
+      213: 6931913342542670997
+    second: BlockIcons_12
+  - first:
+      213: 1155390472802733821
+    second: BlockIcons_13
+  - first:
+      213: -1099303167411363153
+    second: BlockIcons_14
+  - first:
+      213: 2748531719775846729
+    second: BlockIcons_15
+  - first:
+      213: 18154999638459529
+    second: BlockIcons_16
+  - first:
+      213: 4665620361206564391
+    second: BlockIcons_17
+  - first:
+      213: 3779112015154510966
+    second: BlockIcons_18
+  - first:
+      213: 42737121281919281
+    second: BlockIcons_19
+  - first:
+      213: 289541532373216470
+    second: BlockIcons_20
+  - first:
+      213: 4449047110683481943
+    second: BlockIcons_21
+  - first:
+      213: 6804417665525417643
+    second: BlockIcons_22
+  - first:
+      213: 8675960657628198209
+    second: BlockIcons_23
+  - first:
+      213: 5787126192094596512
+    second: BlockIcons_24
+  - first:
+      213: 8187439651284702066
+    second: BlockIcons_25
+  - first:
+      213: -5348037226103879865
+    second: BlockIcons_26
+  - first:
+      213: 3010960731898009494
+    second: BlockIcons_27
+  - first:
+      213: 3356141093242488982
+    second: BlockIcons_28
+  - first:
+      213: 7532115415422576659
+    second: BlockIcons_29
+  - first:
+      213: -5367750331921439649
+    second: BlockIcons_30
+  - first:
+      213: -283939979651927246
+    second: BlockIcons_31
+  - first:
+      213: 8874480006941658528
+    second: BlockIcons_32
+  - first:
+      213: 7147295044156559799
+    second: BlockIcons_33
+  - first:
+      213: 566285965526162391
+    second: BlockIcons_34
+  - first:
+      213: 3616616383578334262
+    second: BlockIcons_35
+  - first:
+      213: -6674726451655503231
+    second: BlockIcons_36
+  - first:
+      213: 4416561439375125678
+    second: BlockIcons_37
+  - first:
+      213: -371110868479969202
+    second: BlockIcons_38
+  - first:
+      213: -3275875341410816095
+    second: BlockIcons_39
+  - first:
+      213: 3872942456767454726
+    second: BlockIcons_40
+  - first:
+      213: 8984090380759741341
+    second: BlockIcons_41
+  - first:
+      213: -1244351244549872766
+    second: BlockIcons_42
+  - first:
+      213: -4473429604288862551
+    second: BlockIcons_43
+  - first:
+      213: 503800448210364855
+    second: BlockIcons_44
+  - first:
+      213: -4083914953666067020
+    second: BlockIcons_45
+  - first:
+      213: 3629092221264818928
+    second: BlockIcons_46
+  - first:
+      213: 6226817653869555505
+    second: BlockIcons_47
+  - first:
+      213: 8525586152552121671
+    second: BlockIcons_48
+  - first:
+      213: -1290961719771388677
+    second: BlockIcons_49
+  - first:
+      213: -5826677379745149253
+    second: BlockIcons_50
+  - first:
+      213: -6065213449149861533
+    second: BlockIcons_51
+  - first:
+      213: 111454113597134321
+    second: BlockIcons_52
+  - first:
+      213: -7273040218955628680
+    second: BlockIcons_53
+  - first:
+      213: -8499339696404631244
+    second: BlockIcons_54
+  - first:
+      213: -2751937213937983117
+    second: BlockIcons_55
+  - first:
+      213: -4264233270559058164
+    second: BlockIcons_56
+  - first:
+      213: -7487061835488056534
+    second: BlockIcons_57
+  - first:
+      213: -7638088706467262861
+    second: BlockIcons_58
+  - first:
+      213: -7417274768444552178
+    second: BlockIcons_59
+  - first:
+      213: 2905176664556852256
+    second: BlockIcons_60
+  - first:
+      213: 917394762953322989
+    second: BlockIcons_61
+  - first:
+      213: 177546532172788373
+    second: BlockIcons_62
+  - first:
+      213: 6426982220790527933
+    second: BlockIcons_63
+  - first:
+      213: 6953848179122153584
+    second: BlockIcons_64
+  - first:
+      213: -542251768244515483
+    second: BlockIcons_65
+  - first:
+      213: -3169788494295363670
+    second: BlockIcons_66
+  - first:
+      213: 2451039869929847667
+    second: BlockIcons_67
+  - first:
+      213: 5726784593495914983
+    second: BlockIcons_68
+  - first:
+      213: -4571173689939354444
+    second: BlockIcons_69
+  - first:
+      213: -8492489947704129173
+    second: BlockIcons_70
+  - first:
+      213: -4220095530110844216
+    second: BlockIcons_71
+  - first:
+      213: -4016780644060787413
+    second: BlockIcons_72
+  - first:
+      213: 5476512703890686521
+    second: BlockIcons_73
+  - first:
+      213: -7581270046402311487
+    second: BlockIcons_74
+  - first:
+      213: 4505631756656361831
+    second: BlockIcons_75
+  - first:
+      213: -2087672329423040695
+    second: BlockIcons_76
+  - first:
+      213: -4551785879344648662
+    second: BlockIcons_77
+  - first:
+      213: -7127868808706505768
+    second: BlockIcons_78
+  - first:
+      213: 7014697806568801278
+    second: BlockIcons_79
+  - first:
+      213: -2971050703741665131
+    second: BlockIcons_80
+  - first:
+      213: -24150792092821400
+    second: BlockIcons_81
+  - first:
+      213: -7537963804035556378
+    second: BlockIcons_82
+  - first:
+      213: 590730504500128106
+    second: BlockIcons_83
+  - first:
+      213: 8045741413042657639
+    second: BlockIcons_84
+  - first:
+      213: 8018613821118092414
+    second: BlockIcons_85
+  - first:
+      213: -791497085595672371
+    second: BlockIcons_86
+  - first:
+      213: -6318638671467110708
+    second: BlockIcons_87
+  - first:
+      213: -5794972090367126277
+    second: BlockIcons_88
+  - first:
+      213: -479517609400563008
+    second: BlockIcons_89
+  - first:
+      213: 2598046278102864405
+    second: BlockIcons_90
+  - first:
+      213: -4906037231097375938
+    second: BlockIcons_91
+  - first:
+      213: 6833263131141581999
+    second: BlockIcons_92
+  - first:
+      213: 8561193031954671787
+    second: BlockIcons_93
+  - first:
+      213: -5913678069756268330
+    second: BlockIcons_94
+  - first:
+      213: -3819412719143138043
+    second: BlockIcons_95
+  - first:
+      213: 1371103811685655505
+    second: BlockIcons_96
+  - first:
+      213: 706278970989388429
+    second: BlockIcons_97
+  - first:
+      213: 4380541187631413166
+    second: BlockIcons_98
+  - first:
+      213: 5418316100816476700
+    second: BlockIcons_99
+  - first:
+      213: -6812093031106564027
+    second: BlockIcons_100
+  - first:
+      213: 6408159190323645923
+    second: BlockIcons_101
+  - first:
+      213: 136156735390705530
+    second: BlockIcons_102
+  - first:
+      213: 2735475791439020627
+    second: BlockIcons_103
+  - first:
+      213: 7005757563677993405
+    second: BlockIcons_104
+  - first:
+      213: -5877456636510762536
+    second: BlockIcons_105
+  - first:
+      213: -5668048106589761811
+    second: BlockIcons_106
+  - first:
+      213: 3158972607912318662
+    second: BlockIcons_107
+  - first:
+      213: -7706638576188363984
+    second: BlockIcons_108
+  - first:
+      213: 7672519977242851586
+    second: BlockIcons_109
+  - first:
+      213: -7576672777740190757
+    second: BlockIcons_110
+  - first:
+      213: -2395675834951109961
+    second: BlockIcons_111
+  - first:
+      213: -4578142434524598972
+    second: BlockIcons_112
+  - first:
+      213: 2686181950020587041
+    second: BlockIcons_113
+  - first:
+      213: -7825581674830067172
+    second: BlockIcons_114
+  - first:
+      213: 4558347462571463667
+    second: BlockIcons_115
+  - first:
+      213: -1923059389751769479
+    second: BlockIcons_116
+  - first:
+      213: 2094554999988542387
+    second: BlockIcons_117
+  - first:
+      213: 8227127675218967538
+    second: BlockIcons_118
+  - first:
+      213: 3657785303102210330
+    second: BlockIcons_119
+  - first:
+      213: -3887003052913937176
+    second: BlockIcons_120
+  - first:
+      213: 5623151681591518211
+    second: BlockIcons_121
+  - first:
+      213: -2202579195564937481
+    second: BlockIcons_122
+  - first:
+      213: -8157166858828153987
+    second: BlockIcons_123
+  - first:
+      213: -2416644253162283747
+    second: BlockIcons_124
+  - first:
+      213: -4587194372663629800
+    second: BlockIcons_125
+  - first:
+      213: 214004012182704737
+    second: BlockIcons_126
+  - first:
+      213: 7300198304219444961
+    second: BlockIcons_127
+  - first:
+      213: 184099768261456063
+    second: BlockIcons_128
+  - first:
+      213: 3467645273145431581
+    second: BlockIcons_129
+  - first:
+      213: -3007096840672240992
+    second: BlockIcons_130
+  - first:
+      213: 662180008511888820
+    second: BlockIcons_131
+  - first:
+      213: -3893052182910577318
+    second: BlockIcons_132
+  - first:
+      213: 3369411982190336153
+    second: BlockIcons_133
+  - first:
+      213: 1470128083841779527
+    second: BlockIcons_134
+  - first:
+      213: 6327893461974474003
+    second: BlockIcons_135
+  - first:
+      213: 7150573818488117137
+    second: BlockIcons_136
+  - first:
+      213: 7727820706956826430
+    second: BlockIcons_137
+  - first:
+      213: 6231182878017640920
+    second: BlockIcons_138
+  - first:
+      213: 7308640094441926466
+    second: BlockIcons_139
+  - first:
+      213: -8036150132381740173
+    second: BlockIcons_140
+  - first:
+      213: -9019481595170321851
+    second: BlockIcons_141
+  - first:
+      213: -8177234962715297373
+    second: BlockIcons_142
+  - first:
+      213: -2654580422363657681
+    second: BlockIcons_143
+  - first:
+      213: 1752857807175556031
+    second: BlockIcons_144
+  - first:
+      213: 70374051114212162
+    second: BlockIcons_145
+  - first:
+      213: -5591671600748236856
+    second: BlockIcons_146
+  - first:
+      213: -4005841216089752331
+    second: BlockIcons_147
+  - first:
+      213: -657038629258070385
+    second: BlockIcons_148
+  - first:
+      213: -1899394777681310831
+    second: BlockIcons_149
+  - first:
+      213: 6953642045648417967
+    second: BlockIcons_150
+  - first:
+      213: -5162347289014036794
+    second: BlockIcons_151
+  - first:
+      213: 1297514657187597684
+    second: BlockIcons_152
+  - first:
+      213: -2563383045677062636
+    second: BlockIcons_153
+  - first:
+      213: -6193608281173765653
+    second: BlockIcons_154
+  - first:
+      213: -4107020411268351787
+    second: BlockIcons_155
+  - first:
+      213: 2597390588919252867
+    second: BlockIcons_156
+  - first:
+      213: -4002996375451692341
+    second: BlockIcons_157
+  - first:
+      213: 8138308825019883611
+    second: BlockIcons_158
+  - first:
+      213: 6415399277111020321
+    second: BlockIcons_159
+  - first:
+      213: 505099013382277262
+    second: BlockIcons_160
+  - first:
+      213: 4573801345887386707
+    second: BlockIcons_161
+  - first:
+      213: -874065875974365887
+    second: BlockIcons_162
+  - first:
+      213: 4839135417019587173
+    second: BlockIcons_163
+  - first:
+      213: -3149378042799917558
+    second: BlockIcons_164
+  - first:
+      213: -1266116928332748427
+    second: BlockIcons_165
+  - first:
+      213: -1039432520686551332
+    second: BlockIcons_166
+  - first:
+      213: -3418767722252817132
+    second: BlockIcons_167
+  - first:
+      213: -5833313458941660050
+    second: BlockIcons_168
+  - first:
+      213: -6293560602146405229
+    second: BlockIcons_169
+  - first:
+      213: 4760166548155017041
+    second: BlockIcons_170
+  - first:
+      213: 661625300649255857
+    second: BlockIcons_171
+  - first:
+      213: 6574985950722085944
+    second: BlockIcons_172
+  - first:
+      213: 2058144512076738775
+    second: BlockIcons_173
+  - first:
+      213: 7988039900573392984
+    second: BlockIcons_174
+  - first:
+      213: 5325913673058329425
+    second: BlockIcons_175
+  - first:
+      213: -1431983030555740306
+    second: BlockIcons_176
+  - first:
+      213: -3539591659952910421
+    second: BlockIcons_177
+  - first:
+      213: -5374860163254739848
+    second: BlockIcons_178
+  - first:
+      213: 7534303135012881171
+    second: BlockIcons_179
+  - first:
+      213: 9013932745992154836
+    second: BlockIcons_180
+  - first:
+      213: -1605986330100904947
+    second: BlockIcons_181
+  - first:
+      213: -7264638468751569442
+    second: BlockIcons_182
+  - first:
+      213: -5289907761150304203
+    second: BlockIcons_183
+  - first:
+      213: -9125286690543130038
+    second: BlockIcons_184
+  - first:
+      213: 2028986721745354135
+    second: BlockIcons_185
+  - first:
+      213: -5337627689652341091
+    second: BlockIcons_186
+  - first:
+      213: -3880803685066124562
+    second: BlockIcons_187
+  - first:
+      213: -3501239705826603383
+    second: BlockIcons_188
+  - first:
+      213: 6106071315397175878
+    second: BlockIcons_189
+  - first:
+      213: 7931596420060438432
+    second: BlockIcons_190
+  - first:
+      213: 8132999665039503425
+    second: BlockIcons_191
+  - first:
+      213: -3306770922380127574
+    second: BlockIcons_192
+  - first:
+      213: -4405849833068153782
+    second: BlockIcons_193
+  - first:
+      213: -7211321784249888431
+    second: BlockIcons_194
+  - first:
+      213: 3864863508621573434
+    second: BlockIcons_195
+  - first:
+      213: 8598843757718308862
+    second: BlockIcons_196
+  - first:
+      213: 4687432189050460658
+    second: BlockIcons_197
+  - first:
+      213: -7932987792765673967
+    second: BlockIcons_198
+  - first:
+      213: -4012494273013798923
+    second: BlockIcons_199
+  - first:
+      213: -8415281944881748119
+    second: BlockIcons_200
+  - first:
+      213: 3448366956728077370
+    second: BlockIcons_201
+  - first:
+      213: -2044616670528862280
+    second: BlockIcons_202
+  - first:
+      213: -638757475709655866
+    second: BlockIcons_203
+  - first:
+      213: -6083681625167556943
+    second: BlockIcons_204
+  - first:
+      213: 8670831906518198574
+    second: BlockIcons_205
+  - first:
+      213: 8483124417832044797
+    second: BlockIcons_206
+  - first:
+      213: -171693087107027150
+    second: BlockIcons_207
+  - first:
+      213: -831468162341475875
+    second: BlockIcons_208
+  - first:
+      213: -8772404407057059579
+    second: BlockIcons_209
+  - first:
+      213: -1256237426818473627
+    second: BlockIcons_210
+  - first:
+      213: 5871107786361979554
+    second: BlockIcons_211
+  - first:
+      213: -6813533809858128869
+    second: BlockIcons_212
+  - first:
+      213: -7242345066895940127
+    second: BlockIcons_213
+  - first:
+      213: 4079216087003928240
+    second: BlockIcons_214
+  - first:
+      213: 8119762691070884180
+    second: BlockIcons_215
+  - first:
+      213: 1181758124313582241
+    second: BlockIcons_216
+  - first:
+      213: 4825383950060993989
+    second: BlockIcons_217
+  - first:
+      213: -842283822392594839
+    second: BlockIcons_218
+  - first:
+      213: -7665964149661460433
+    second: BlockIcons_219
+  - first:
+      213: 4650005210580471347
+    second: BlockIcons_220
+  - first:
+      213: 1044541941993163843
+    second: BlockIcons_221
+  - first:
+      213: -464182495637702762
+    second: BlockIcons_222
+  - first:
+      213: 4095297539260195330
+    second: BlockIcons_223
+  - first:
+      213: 7685818249900766310
+    second: BlockIcons_224
+  - first:
+      213: 7674034695677004782
+    second: BlockIcons_225
+  - first:
+      213: -6999245436289702282
+    second: BlockIcons_226
+  - first:
+      213: 8403833190702602252
+    second: BlockIcons_227
+  - first:
+      213: 1259063453049253699
+    second: BlockIcons_228
+  - first:
+      213: 5514948906555381532
+    second: BlockIcons_229
+  - first:
+      213: -7006993305881693995
+    second: BlockIcons_230
+  - first:
+      213: 7545211147587484896
+    second: BlockIcons_231
+  - first:
+      213: 1911265542689432232
+    second: BlockIcons_232
+  - first:
+      213: 4300252467604480451
+    second: BlockIcons_233
+  - first:
+      213: -8675759300141188850
+    second: BlockIcons_234
+  - first:
+      213: 2376976906898870590
+    second: BlockIcons_235
+  - first:
+      213: -7583309060872857920
+    second: BlockIcons_236
+  - first:
+      213: 2464465781134774812
+    second: BlockIcons_237
+  - first:
+      213: -4603094484921400124
+    second: BlockIcons_238
+  - first:
+      213: -1229052209317240056
+    second: BlockIcons_239
+  - first:
+      213: -21817585467425713
+    second: BlockIcons_240
+  - first:
+      213: 1005517017126942862
+    second: BlockIcons_241
+  - first:
+      213: -8139350745500193291
+    second: BlockIcons_242
+  - first:
+      213: -4606042453649332660
+    second: BlockIcons_243
+  - first:
+      213: 4635202758402663424
+    second: BlockIcons_244
+  - first:
+      213: -5676873759006973809
+    second: BlockIcons_245
+  - first:
+      213: -5241945742819025738
+    second: BlockIcons_246
+  - first:
+      213: 1210775267972432021
+    second: BlockIcons_247
+  - first:
+      213: -4361393425068253126
+    second: BlockIcons_248
+  - first:
+      213: -960268558045497050
+    second: BlockIcons_249
+  - first:
+      213: 9205249562247539131
+    second: BlockIcons_250
+  - first:
+      213: 4819649848803820355
+    second: BlockIcons_251
+  - first:
+      213: 4111042605927159463
+    second: BlockIcons_252
+  - first:
+      213: -9139357515458127008
+    second: BlockIcons_253
+  - first:
+      213: -7334670553151348070
+    second: BlockIcons_254
+  - first:
+      213: -6644890344690278593
+    second: BlockIcons_255
+  - first:
+      213: 8309984563307384087
+    second: BlockIcons_256
+  - first:
+      213: -7506988420882036328
+    second: BlockIcons_257
+  - first:
+      213: -3902920943406854437
+    second: BlockIcons_258
+  - first:
+      213: 5712390175314425020
+    second: BlockIcons_259
+  - first:
+      213: -4375055045932592908
+    second: BlockIcons_260
+  - first:
+      213: 3804373892935690355
+    second: BlockIcons_261
+  - first:
+      213: 3999018145876197995
+    second: BlockIcons_262
+  - first:
+      213: -4916190165938114631
+    second: BlockIcons_263
+  - first:
+      213: 1013697730535011341
+    second: BlockIcons_264
+  - first:
+      213: -651058705847284609
+    second: BlockIcons_265
+  - first:
+      213: 3181747394657695421
+    second: BlockIcons_266
+  - first:
+      213: 8499468894865374008
+    second: BlockIcons_267
+  - first:
+      213: -5978404261060206230
+    second: BlockIcons_268
+  - first:
+      213: 7657569537275790107
+    second: BlockIcons_269
+  - first:
+      213: -2518425886291874666
+    second: BlockIcons_270
+  - first:
+      213: 8020759687332761378
+    second: BlockIcons_271
+  - first:
+      213: -3979060736965122841
+    second: BlockIcons_272
+  - first:
+      213: 6993981382718665133
+    second: BlockIcons_273
+  - first:
+      213: -6453241856442292487
+    second: BlockIcons_274
+  - first:
+      213: 387338464431273621
+    second: BlockIcons_275
+  - first:
+      213: 8155990291652629586
+    second: BlockIcons_276
+  - first:
+      213: -4941472695188229870
+    second: BlockIcons_277
+  - first:
+      213: -8567047985722757201
+    second: BlockIcons_278
+  - first:
+      213: 1834712516690665393
+    second: BlockIcons_279
+  - first:
+      213: -4712995286079525528
+    second: BlockIcons_280
+  - first:
+      213: 4803004838295055665
+    second: BlockIcons_281
+  - first:
+      213: -2914292615539982642
+    second: BlockIcons_282
+  - first:
+      213: 129298730667232438
+    second: BlockIcons_283
+  - first:
+      213: -4516551169898845307
+    second: BlockIcons_284
+  - first:
+      213: 9182382731937081391
+    second: BlockIcons_285
+  - first:
+      213: 469583667088960363
+    second: BlockIcons_286
+  - first:
+      213: -3217588401423840215
+    second: BlockIcons_287
+  - first:
+      213: 831026242844591718
+    second: BlockIcons_288
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockIcons_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89818641a9f31de40800000000000000
+      internalID: 5679390536090785944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 559
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f174c0b8e6da40800000000000000
+      internalID: 5392753449730437660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90b1dc90557eff0800000000000000
+      internalID: -6943373833598557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fca247b364616790800000000000000
+      internalID: -7538633921802359561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 549
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf11f1fb70b3600800000000000000
+      internalID: 448961105294916356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 548
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e399ecfd1175c0800000000000000
+      internalID: -4219558403781695398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 549
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554cf07821d6ac550800000000000000
+      internalID: 6181873364862223445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 553
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a9b5c14cc1d2180800000000000000
+      internalID: -9138616440249935319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9213098b4892be0800000000000000
+      internalID: -1501523072523359806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba982f68dd71010800000000000000
+      internalID: 1159639000735656762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 553
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107547a870877240800000000000000
+      internalID: 4789437984422588439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_11
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 553
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a277280da1d64b30800000000000000
+      internalID: 4271331837703844512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 568
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ceb0c457a133060800000000000000
+      internalID: 6931913342542670997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_13
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe07447385c80010800000000000000
+      internalID: 1155390472802733821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_14
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ebf5f79d7eb0f0800000000000000
+      internalID: -1099303167411363153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 548
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941022b690fb42620800000000000000
+      internalID: 2748531719775846729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 534
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984095040ef704000800000000000000
+      internalID: 18154999638459529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 536
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260c8ebffc9fb040800000000000000
+      internalID: 4665620361206564391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 536
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf1bdea5a127430800000000000000
+      internalID: 3779112015154510966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 536
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394bb47f25d79000800000000000000
+      internalID: 42737121281919281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 536
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dce3d85d78a40400800000000000000
+      internalID: 289541532373216470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 533
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757544d66c03ebd30800000000000000
+      internalID: 4449047110683481943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 536
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60901c0d52e6e50800000000000000
+      internalID: 6804417665525417643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_23
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 536
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145713b3044376870800000000000000
+      internalID: 8675960657628198209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_24
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 536
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad48263c90005050800000000000000
+      internalID: 5787126192094596512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_25
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 536
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d5c2ebf0af9170800000000000000
+      internalID: 8187439651284702066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 536
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747438c5a74f7c5b0800000000000000
+      internalID: -5348037226103879865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_27
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 533
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6975e6935d419c920800000000000000
+      internalID: 3010960731898009494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_28
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 536
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984fceea88639e20800000000000000
+      internalID: 3356141093242488982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_29
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 534
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a18f3013778860800000000000000
+      internalID: 7532115415422576659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_30
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 536
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5466de338be185b0800000000000000
+      internalID: -5367750331921439649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_31
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 536
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233b057c71e3f0cf0800000000000000
+      internalID: -283939979651927246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_32
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 534
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad401c1c8c782b70800000000000000
+      internalID: 8874480006941658528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 536
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19cd389fa403360800000000000000
+      internalID: 7147295044156559799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_34
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 534
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbd978d51adbd700800000000000000
+      internalID: 566285965526162391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_35
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 534
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346b00707dc03230800000000000000
+      internalID: 3616616383578334262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_36
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829b2c08ab9e53a0800000000000000
+      internalID: -6674726451655503231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_37
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 534
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac64aaaa37ca4d30800000000000000
+      internalID: 4416561439375125678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 521
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48f6ff91ac89daf0800000000000000
+      internalID: -371110868479969202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_39
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 521
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af2fbabbb0c982d0800000000000000
+      internalID: -3275875341410816095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 521
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e172b05a47fb530800000000000000
+      internalID: 3872942456767454726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 521
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93303ff996edac70800000000000000
+      internalID: 8984090380759741341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_42
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 521
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832accc22d2bbee0800000000000000
+      internalID: -1244351244549872766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 521
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a665a4e97f2be1c0800000000000000
+      internalID: -4473429604288862551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_44
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 521
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e241a6dbddf600800000000000000
+      internalID: 503800448210364855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_45
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 521
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b504d5bcf40357c0800000000000000
+      internalID: -4083914953666067020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_46
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 521
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27f91c5202d5230800000000000000
+      internalID: 3629092221264818928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_47
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 521
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa6044aa91a6650800000000000000
+      internalID: 6226817653869555505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_48
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 521
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745cbdc6f67f05670800000000000000
+      internalID: 8525586152552121671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 454
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4266ad725951ee0800000000000000
+      internalID: -1290961719771388677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 454
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8c7f4bcb732fa0800000000000000
+      internalID: -5826677379745149253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 454
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361308cb08804dba0800000000000000
+      internalID: -6065213449149861533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_52
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 455
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f596b10de6fb8100800000000000000
+      internalID: 111454113597134321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 454
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f35008478f01b90800000000000000
+      internalID: -7273040218955628680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 454
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431fc6ad3974c0a80800000000000000
+      internalID: -8499339696404631244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_55
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 454
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716c0f2fa72fc9d0800000000000000
+      internalID: -2751937213937983117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_56
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 454
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07dcecee6662d4c0800000000000000
+      internalID: -4264233270559058164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_57
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 454
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba954cdec981890800000000000000
+      internalID: -7487061835488056534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_58
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 421
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e88103ace000690800000000000000
+      internalID: -7638088706467262861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_59
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 454
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c056185eb801990800000000000000
+      internalID: -7417274768444552178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_60
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 455
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0245aacb8c2415820800000000000000
+      internalID: 2905176664556852256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_61
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 505
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f2a42dad3bbc00800000000000000
+      internalID: 917394762953322989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_62
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 459
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f24d51a5c67200800000000000000
+      internalID: 177546532172788373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_63
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 466
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db778f7374a313950800000000000000
+      internalID: 6426982220790527933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_64
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 454
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a29a6318018060800000000000000
+      internalID: 6953848179122153584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_65
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 498
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d45f6c3e88978f0800000000000000
+      internalID: -542251768244515483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_66
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 454
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8760a826a204d0800000000000000
+      internalID: -3169788494295363670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_67
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 462
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bfc7986c7d30220800000000000000
+      internalID: 2451039869929847667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_68
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 459
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f088fe30a97f40800000000000000
+      internalID: 5726784593495914983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_69
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 462
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc9d848fbdef80c0800000000000000
+      internalID: -4571173689939354444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_70
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 454
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690580436d942a80800000000000000
+      internalID: -8492489947704129173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_71
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 461
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2878179753f65c0800000000000000
+      internalID: -4220095530110844216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 442
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d871a39478148c0800000000000000
+      internalID: -4016780644060787413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 439
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328153d94b700c40800000000000000
+      internalID: 5476512703890686521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca81e16f0be9c690800000000000000
+      internalID: -7581270046402311487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 442
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761c838f538378e30800000000000000
+      internalID: 4505631756656361831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 442
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fc35dc3191703e0800000000000000
+      internalID: -2087672329423040695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_77
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 439
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee500fbdec4d0c0800000000000000
+      internalID: -4551785879344648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 439
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d346736519b41d90800000000000000
+      internalID: -7127868808706505768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_79
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 440
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ce375d76395160800000000000000
+      internalID: 7014697806568801278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 442
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590cdc15025b4c6d0800000000000000
+      internalID: -2971050703741665131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 440
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86853488bf23aaff0800000000000000
+      internalID: -24150792092821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_82
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 442
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb55baabd5c36790800000000000000
+      internalID: -7537963804035556378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_83
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 442
+        width: 60
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a7b69342b23800800000000000000
+      internalID: 590730504500128106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_84
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 442
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699e0fdf2738af60800000000000000
+      internalID: 8045741413042657639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_85
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 440
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7418ce29c6d74f60800000000000000
+      internalID: 8018613821118092414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_86
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 440
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0205c18990405f0800000000000000
+      internalID: -791497085595672371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 442
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce182b1b9faf48a0800000000000000
+      internalID: -6318638671467110708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_88
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 440
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45d5e369f149fa0800000000000000
+      internalID: -5794972090367126277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_89
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 442
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca822c56496859f0800000000000000
+      internalID: -479517609400563008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_90
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 442
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d85c235d1e0420800000000000000
+      internalID: 2598046278102864405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_91
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 440
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339991b1214aebb0800000000000000
+      internalID: -4906037231097375938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 442
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca7741d90a4de50800000000000000
+      internalID: 6833263131141581999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_93
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 442
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8253314b77fc670800000000000000
+      internalID: 8561193031954671787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_94
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 442
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0f828a0256eeda0800000000000000
+      internalID: -5913678069756268330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_95
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 442
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4dd83e58befac0800000000000000
+      internalID: -3819412719143138043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 427
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d325bdf6a3270310800000000000000
+      internalID: 1371103811685655505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_97
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 424
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82a62a6bf43dc900800000000000000
+      internalID: 706278970989388429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 427
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7fcb4400fcacc30800000000000000
+      internalID: 4380541187631413166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 427
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a12f549c9b13b40800000000000000
+      internalID: 5418316100816476700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_100
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 425
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540baffea759671a0800000000000000
+      internalID: -6812093031106564027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_101
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 427
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed456be4da5ee850800000000000000
+      internalID: 6408159190323645923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_102
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 427
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a776db654d9b3e100800000000000000
+      internalID: 136156735390705530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_103
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 427
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35247683dbc56f520800000000000000
+      internalID: 2735475791439020627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_104
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 427
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db96885d263793160800000000000000
+      internalID: 7005757563677993405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_105
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 427
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9830644541f6ea0800000000000000
+      internalID: -5877456636510762536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_106
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 427
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee44e4174c0751b0800000000000000
+      internalID: -5668048106589761811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_107
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 412
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c69dc599dce6db20800000000000000
+      internalID: 3158972607912318662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_108
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 345
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b68f5eb058c0590800000000000000
+      internalID: -7706638576188363984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f5afb4444a7a60800000000000000
+      internalID: 7672519977242851586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb7c6760404ad690800000000000000
+      internalID: -7576672777740190757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_111
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b270cc5589d0ced0800000000000000
+      internalID: -2395675834951109961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de40b36bb2770c0800000000000000
+      internalID: -4578142434524598972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_113
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0b05604c374520800000000000000
+      internalID: 2686181950020587041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_114
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 345
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a82feade2f56390800000000000000
+      internalID: -7825581674830067172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_115
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 345
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31065bdd0824f30800000000000000
+      internalID: 4558347462571463667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_116
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cddf7cabef45e0800000000000000
+      internalID: -1923059389751769479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_117
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd5d0dcaa511d10800000000000000
+      internalID: 2094554999988542387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_118
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb363b0801ac2270800000000000000
+      internalID: 8227127675218967538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_119
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114d087a5013c230800000000000000
+      internalID: 3657785303102210330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_120
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b43e41579e0ac0800000000000000
+      internalID: -3887003052913937176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_121
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304276369a2790e40800000000000000
+      internalID: 5623151681591518211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_122
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 345
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feafa234edde61e0800000000000000
+      internalID: -2202579195564937481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_123
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 345
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b75fdd5fbebce80800000000000000
+      internalID: -8157166858828153987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_124
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 331
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd5cd0bda567ed0800000000000000
+      internalID: -2416644253162283747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 333
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a6b5a5030750c0800000000000000
+      internalID: -4587194372663629800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_126
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 333
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16298a6e38b48f200800000000000000
+      internalID: 214004012182704737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_127
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 331
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b8e8fda38f4560800000000000000
+      internalID: 7300198304219444961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 333
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b47a83cd0e8200800000000000000
+      internalID: 184099768261456063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_129
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 331
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1655e8e00d8f1030800000000000000
+      internalID: 3467645273145431581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_130
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 333
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa188e0b55a446d0800000000000000
+      internalID: -3007096840672240992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_131
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 333
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd57b89539803900800000000000000
+      internalID: 662180008511888820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_132
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 333
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555e897aa919f9c0800000000000000
+      internalID: -3893052182910577318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_133
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 333
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998566c885e82ce20800000000000000
+      internalID: 3369411982190336153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_134
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 331
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74707b304b1f66410800000000000000
+      internalID: 1470128083841779527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_135
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 333
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d5189b39131d750800000000000000
+      internalID: 6327893461974474003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_136
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 331
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975137a001fb3360800000000000000
+      internalID: 7150573818488117137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_137
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 333
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37d11e3dfbbe3b60800000000000000
+      internalID: 7727820706956826430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_138
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 331
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dcb630db997650800000000000000
+      internalID: 6231182878017640920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_139
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 333
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f636c61718d6560800000000000000
+      internalID: 7308640094441926466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_140
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 331
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739dad280cd97090800000000000000
+      internalID: -8036150132381740173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_141
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 333
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a03b5c64d54d280800000000000000
+      internalID: -9019481595170321851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_142
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 333
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a933725020a48e80800000000000000
+      internalID: -8177234962715297373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_143
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 331
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ace41ab29092bd0800000000000000
+      internalID: -2654580422363657681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_144
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 333
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb187a73e6635810800000000000000
+      internalID: 1752857807175556031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_145
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 333
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b511e93d40af000800000000000000
+      internalID: 70374051114212162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_146
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 330
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfe2c81e446662b0800000000000000
+      internalID: -5591671600748236856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_147
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 333
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcf95843a46868c0800000000000000
+      internalID: -4005841216089752331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_148
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 333
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86fc5b09dab1e6f0800000000000000
+      internalID: -657038629258070385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_149
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 333
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc21c538ef3a5e0800000000000000
+      internalID: -1899394777681310831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_150
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 333
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4381a399c408060800000000000000
+      internalID: 6953642045648417967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_151
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 333
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c61e1fed78ab58b0800000000000000
+      internalID: -5162347289014036794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_152
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8788c4b2b10210800000000000000
+      internalID: 1297514657187597684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_153
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e82b83b80d6cd0800000000000000
+      internalID: -2563383045677062636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be158ba5512eb0aa0800000000000000
+      internalID: -6193608281173765653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_155
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 316
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8321522bee007c0800000000000000
+      internalID: -4107020411268351787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_156
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 318
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878973aaf8cb0420800000000000000
+      internalID: 2597390588919252867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_157
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 318
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2960c51008278c0800000000000000
+      internalID: -4002996375451692341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_158
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 318
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50acbbf1c411f070800000000000000
+      internalID: 8138308825019883611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_159
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 318
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b008cf6a3180950800000000000000
+      internalID: 6415399277111020321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_160
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 318
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e880d0560e8720700800000000000000
+      internalID: 505099013382277262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_161
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 318
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c32de4718697f30800000000000000
+      internalID: 4573801345887386707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_162
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 318
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dd14087b1bed3f0800000000000000
+      internalID: -874065875974365887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_163
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 303
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad67fd500182340800000000000000
+      internalID: 4839135417019587173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_164
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fe7f2b592b44d0800000000000000
+      internalID: -3149378042799917558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_165
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792e92ac59dd6ee0800000000000000
+      internalID: -1266116928332748427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_166
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3d7c21a13391f0800000000000000
+      internalID: -1039432520686551332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 236
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dac89bed81e80d0800000000000000
+      internalID: -3418767722252817132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f648b058eb0fa0800000000000000
+      internalID: -5833313458941660050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_169
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948ba02af7c8a8a0800000000000000
+      internalID: -6293560602146405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_170
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1572a7e41428f0240800000000000000
+      internalID: 4760166548155017041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_171
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32c9b94b09e2900800000000000000
+      internalID: 661625300649255857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_172
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 236
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83459fbe2ea0f3b50800000000000000
+      internalID: 6574985950722085944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_173
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0f0ca778fff8c10800000000000000
+      internalID: 2058144512076738775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_174
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e25597f73bde60800000000000000
+      internalID: 7988039900573392984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_175
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153a90b844279e940800000000000000
+      internalID: 5325913673058329425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_176
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67765b4503902ce0800000000000000
+      internalID: -1431983030555740306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_177
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf429a8328d0eec0800000000000000
+      internalID: -3539591659952910421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_178
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 237
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9dc3a829a865b0800000000000000
+      internalID: -5374860163254739848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_179
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 236
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130e8868c83f8860800000000000000
+      internalID: 7534303135012881171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_180
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 221
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaf1a131ce71d70800000000000000
+      internalID: 9013932745992154836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_181
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc33011f366b9e0800000000000000
+      internalID: -1605986330100904947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_182
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddcc686dc1de2b90800000000000000
+      internalID: -7264638468751569442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_183
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 221
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ed0a1be87696b0800000000000000
+      internalID: -5289907761150304203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 53
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa3905a187c5180800000000000000
+      internalID: -9125286690543130038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_185
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 224
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dbd936ca8682c10800000000000000
+      internalID: 2028986721745354135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_186
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 221
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96bbfe65efece5b0800000000000000
+      internalID: -5337627689652341091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_187
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 222
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee25b9c1c9d942ac0800000000000000
+      internalID: -3880803685066124562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_188
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 224
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e46b4b909196fc0800000000000000
+      internalID: -3501239705826603383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_189
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 221
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a637f828f1db450800000000000000
+      internalID: 6106071315397175878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_190
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 222
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af567fabe0b21e60800000000000000
+      internalID: 7931596420060438432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_191
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 224
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fc09da183ed070800000000000000
+      internalID: 8132999665039503425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_192
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 222
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa211f9bd5dfb12d0800000000000000
+      internalID: -3306770922380127574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_193
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4432468be64bd2c0800000000000000
+      internalID: -4405849833068153782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_194
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 224
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151dfb06b0d3ceb90800000000000000
+      internalID: -7211321784249888431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_195
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 222
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d32c852e0c2a530800000000000000
+      internalID: 3864863508621573434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_196
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 224
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef782e9c6da355770800000000000000
+      internalID: 8598843757718308862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_197
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 224
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99519adba1d0140800000000000000
+      internalID: 4687432189050460658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_198
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 222
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e11bc12ad58e190800000000000000
+      internalID: -7932987792765673967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_199
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 224
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f729b1c7b1c058c0800000000000000
+      internalID: -4012494273013798923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_200
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 222
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967a09e38a9e63b80800000000000000
+      internalID: -8415281944881748119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_201
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 224
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cc8f61a7f0bdf20800000000000000
+      internalID: 3448366956728077370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_202
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 221
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7094398ff00a3e0800000000000000
+      internalID: -2044616670528862280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_203
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 224
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c463bac57da227f0800000000000000
+      internalID: -638757475709655866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_204
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 224
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be015d6bcb629ba0800000000000000
+      internalID: -6083681625167556943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_205
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 221
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e32fcdabf45870800000000000000
+      internalID: 8670831906518198574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_206
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 209
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8425666bc1ab570800000000000000
+      internalID: 8483124417832044797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_207
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 209
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f68940c060e9df0800000000000000
+      internalID: -171693087107027150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_208
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 209
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e6959c180674f0800000000000000
+      internalID: -831468162341475875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_209
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 209
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501fa438ba8224680800000000000000
+      internalID: -8772404407057059579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_210
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 209
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612fe457b2f09ee0800000000000000
+      internalID: -1256237426818473627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_211
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 209
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c22cdc6d5a7150800000000000000
+      internalID: 5871107786361979554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_212
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 209
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14da4e79177171a0800000000000000
+      internalID: -6813533809858128869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_213
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 207
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e56dd288850e7b90800000000000000
+      internalID: -7242345066895940127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_214
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 209
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69de32b694c9830800000000000000
+      internalID: 4079216087003928240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_215
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 209
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ffbda5213fa070800000000000000
+      internalID: 8119762691070884180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_216
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 209
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa942ab0c2766010800000000000000
+      internalID: 1181758124313582241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_217
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb148f22537f240800000000000000
+      internalID: 4825383950060993989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_218
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 209
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2b3e735b9f44f0800000000000000
+      internalID: -842283822392594839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_219
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 209
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f289c8ec8360d9590800000000000000
+      internalID: -7665964149661460433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_220
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 209
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e4d5c2a13288040800000000000000
+      internalID: 4650005210580471347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_221
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccf7dac55fe7e00800000000000000
+      internalID: 1044541941993163843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_222
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 142
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977f84ca74ee89f0800000000000000
+      internalID: -464182495637702762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_223
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a2250a6b65d830800000000000000
+      internalID: 4095297539260195330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_224
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 142
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664bc812af289aa60800000000000000
+      internalID: 7685818249900766310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_225
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc9dd95e5af7a60800000000000000
+      internalID: 7674034695677004782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_226
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676ad2afb5fadde90800000000000000
+      internalID: -6999245436289702282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_227
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085773f2c960a470800000000000000
+      internalID: 8403833190702602252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_228
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 155
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6dac2a87197110800000000000000
+      internalID: 1259063453049253699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_229
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1799a1afc8098c40800000000000000
+      internalID: 5514948906555381532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_230
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b16386b822ce90800000000000000
+      internalID: -7006993305881693995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_231
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 142
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf44fff89f5b860800000000000000
+      internalID: 7545211147587484896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_232
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 142
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a27f72ed268a10800000000000000
+      internalID: 1911265542689432232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_233
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1ef08e5d09dab30800000000000000
+      internalID: 4300252467604480451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_234
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fa46f1e2899780800000000000000
+      internalID: -8675759300141188850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_235
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31930f27e7bcf020800000000000000
+      internalID: 2376976906898870590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_236
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c61ca4569ca2c690800000000000000
+      internalID: -7583309060872857920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_237
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 142
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d4a5129a833220800000000000000
+      internalID: 2464465781134774812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_238
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c443b644f58e10c0800000000000000
+      internalID: -4603094484921400124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_239
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ac35078781fee0800000000000000
+      internalID: -1229052209317240056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_240
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7b58850d72bff0800000000000000
+      internalID: -21817585467425713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_241
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88367d466054fd00800000000000000
+      internalID: 1005517017126942862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_242
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd66200f973b0f80800000000000000
+      internalID: -8139350745500193291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_243
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 130
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ecd1dacc0410c0800000000000000
+      internalID: -4606042453649332660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_244
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 128
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0046084b95c835040800000000000000
+      internalID: 4635202758402663424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_245
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 128
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8027afb461b731b0800000000000000
+      internalID: -5676873759006973809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_246
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 130
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc9663be1ed047b0800000000000000
+      internalID: -5241945742819025738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_247
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 130
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904356f0b98dc010800000000000000
+      internalID: 1210775267972432021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_248
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 130
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30251d99c73973c0800000000000000
+      internalID: -4361393425068253126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_249
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 127
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b8bc85d07ca2f0800000000000000
+      internalID: -960268558045497050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_250
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 130
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a59294bd9fbf70800000000000000
+      internalID: 9205249562247539131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_251
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 128
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34387bb7006d2e240800000000000000
+      internalID: 4819649848803820355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_252
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 130
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6d8c6087b5d0930800000000000000
+      internalID: 4111042605927159463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_253
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 127
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b52d713ca7a2180800000000000000
+      internalID: -9139357515458127008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_254
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 130
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9265ee1ef3063a90800000000000000
+      internalID: -7334670553151348070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_255
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 128
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f1059007b98c3a0800000000000000
+      internalID: -6644890344690278593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_256
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 130
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8ae0aeeef25370800000000000000
+      internalID: 8309984563307384087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_257
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 130
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8990b501ec1d1d790800000000000000
+      internalID: -7506988420882036328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_258
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 130
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4dcd941a06d9c0800000000000000
+      internalID: -3902920943406854437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_259
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43c02599c764f40800000000000000
+      internalID: 5712390175314425020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_260
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 112
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f05862ad9ea843c0800000000000000
+      internalID: -4375055045932592908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_261
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 115
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378a33136e9dbc430800000000000000
+      internalID: 3804373892935690355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_262
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 112
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ca43e0dd5f7730800000000000000
+      internalID: 3999018145876197995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_263
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 115
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf6df6571f26cbb0800000000000000
+      internalID: -4916190165938114631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_264
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 115
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b82217b0611e00800000000000000
+      internalID: 1013697730535011341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_265
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 115
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0c067e89f6f6f0800000000000000
+      internalID: -651058705847284609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_266
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 115
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b897d566d72c20800000000000000
+      internalID: 3181747394657695421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_267
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 17
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbee18ded24f570800000000000000
+      internalID: 8499468894865374008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_268
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6123dfdff0780da0800000000000000
+      internalID: -5978404261060206230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_269
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 49
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130d203ce6254a60800000000000000
+      internalID: 7657569537275790107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_270
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cac66eff0cc0dd0800000000000000
+      internalID: -2518425886291874666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_271
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f0e3890767f4f60800000000000000
+      internalID: 8020759687332761378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_272
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 53
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46d79775987c8c0800000000000000
+      internalID: -3979060736965122841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_273
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 36
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da134aa030d9f0160800000000000000
+      internalID: 6993981382718665133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_274
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f62319e8ba7176a0800000000000000
+      internalID: -6453241856442292487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_275
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 36
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596754cf74a106500800000000000000
+      internalID: 387338464431273621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_276
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545d7d35f5ef2170800000000000000
+      internalID: 8155990291652629586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_277
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 36
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117308c3cc5c6bb0800000000000000
+      internalID: -4941472695188229870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_278
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 36
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe4454f3bbb1980800000000000000
+      internalID: -8567047985722757201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_279
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 33
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf5f4e2055367910800000000000000
+      internalID: 1834712516690665393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_280
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da32102c3189eb0800000000000000
+      internalID: -4712995286079525528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_281
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2f09f373b7a240800000000000000
+      internalID: 4803004838295055665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_282
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef1378e4a5e87d0800000000000000
+      internalID: -2914292615539982642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_283
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 36
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc445fa28c5bc100800000000000000
+      internalID: 129298730667232438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_284
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 36
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bed4404acf151c0800000000000000
+      internalID: -4516551169898845307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_285
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286ac0c1706e6f70800000000000000
+      internalID: 9182382731937081391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_286
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 21
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ba9257bdb448600800000000000000
+      internalID: 469583667088960363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_287
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 21
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c07bb7564d853d0800000000000000
+      internalID: -3217588401423840215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockIcons_288
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 21
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66687c307f5688b00800000000000000
+      internalID: 831026242844591718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
